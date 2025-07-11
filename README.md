@@ -11,9 +11,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, explorando soluções e
 
 - **Banco de Dados:** PostgreSQL (modelagem e integração com backend)  
 - **Frontend:** Javascript e React 
-- **Backend com Python:**  
-  - Django
-  - FastAPI
+- **Backend com Python:** FastAPI
 
   ---
 
