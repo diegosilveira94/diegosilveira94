@@ -11,18 +11,18 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, explorando soluções e
 
 - **Banco de Dados:** PostgreSQL (modelagem e integração com backend)  
 - **Frontend:** Javascript e React 
-- **Backend com Python:** FastAPI
+- **Backend com Python:** Nodejs
 
   ---
 
   ### 🛠 Projetos em Destaque
 
-- 🏠 [Site ONG Casa do Adalto](https://casadoadalto.netlify.app/)  
-  Desenvolvimento completo do site institucional com foco em acessibilidade e impacto social.
+- 🏠 [Site ONG Casa do Adalto](https://github.com/diegosilveira94/site-casa-do-adalto)  
+  Site institucional para a instituição Casa do Adalto. (EM DESENVOLVIMENTO) 
 
-- 🎮 [Jogo do Número Secreto](https://github.com/diegosilveira94/logica-js)  
-  Jogo simples em JS com foco em manipulação de DOM e lógica de repetição.
-
+- 🎮 [Sistema Bancário](https://github.com/diegosilveira94/sistema-bancario)  
+  Sistema bancário aplicado POO, validações. Desenvolvimento durante o bootcamp Santander 2025
+ 
 ---
 
 <h3 align="left">Linguagem e Ferramentas:</h3>
