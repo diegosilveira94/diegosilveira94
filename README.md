@@ -1,24 +1,25 @@
 <h1 align="center">Olá 👋, eu sou o Diego Silveira</h1>
-<h3 align="center">Apaixonado por resolver problemas com tecnologia, café e criatividade.</h3>
+<h3 align="center">Fissurado por tecnologia e café.</h3>
 
 ### 👨‍💻 Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, explorando soluções em backend com Python, automações e dados. Gosto de criar sistemas que resolvem problemas reais, com código limpo e propósito. Busco constantemente aprender novas tecnologias e colaborar com projetos de impacto.
+Sou estudante de Análise e Desenvolvimento de Sistemas e estou sempre aprendendo algo novo.
 
 ---
 
 ### 📚 Atualmente estudando
 
-- **Banco de Dados:** PostgreSQL (modelagem e integração com backend)  
-- **Frontend:** Javascript e React 
-- **Backend com Python:** Nodejs
+- **TypeScript** 
+- **React**
+- **GraphQL**
+- **PostgreSQL**
 
   ---
 
   ### 🛠 Projetos em Destaque
 
-- 🏠 [Site ONG Casa do Adalto](https://github.com/diegosilveira94/site-casa-do-adalto)  
-  Site institucional para a instituição Casa do Adalto. (EM DESENVOLVIMENTO) 
+- 🏠 [Site Quase Tudo Gostoso](https://github.com/diegosilveira94/quase-tudo-gostoso)  
+  Site de receitas criado como projeto interdisciplinar. 
 
 - 🎮 [Sistema Bancário](https://github.com/diegosilveira94/sistema-bancario)  
   Sistema bancário aplicado POO, validações. Desenvolvimento durante o bootcamp Santander 2025
