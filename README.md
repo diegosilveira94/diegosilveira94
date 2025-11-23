@@ -18,8 +18,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e estou sempre aprendend
 
   ### 🛠 Projetos em Destaque
 
-- 🏠 [Site Quase Tudo Gostoso](https://github.com/diegosilveira94/quase-tudo-gostoso)  
-  Site de receitas criado como projeto interdisciplinar. 
+- 🏠 [Backend Java - Site Quase Tudo Gostoso](https://github.com/diegosilveira94/quasetudogostoso-java)  
+  Backend em java de site de receitas criado como projeto interdisciplinar. 
 
 - 🎮 [Sistema Bancário](https://github.com/diegosilveira94/sistema-bancario)  
   Sistema bancário aplicado POO, validações. Desenvolvimento durante o bootcamp Santander 2025
