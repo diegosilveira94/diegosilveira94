@@ -13,6 +13,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e estou sempre aprendend
 - React
 - GraphQL
 - PostgreSQL
+- Cypress
 
 ---
 
