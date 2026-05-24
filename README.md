@@ -25,7 +25,3 @@ Desenvolvedor Full-stack e estudante de Análise e Desenvolvimento de Sistemas. 
 - Instagram: https://instagram.com/diegocilveira
 
 ---
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=diegosilveira94&show_icons=true&locale=en&layout=compact)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=diegosilveira94&show_icons=true&locale=en)
